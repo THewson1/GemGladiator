@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Gem Gladiator Test Scene.unity
+  isLoaded: 1
+  isActive: 1
