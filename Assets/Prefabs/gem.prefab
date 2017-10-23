@@ -142,8 +142,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5d3e09896d860d4990077f0ed123db3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seekSpeed: 1000
-  targetRange: 2
+  seekSpeed: 4016
+  targetRange: 4
 --- !u!114 &114468199464244434
 MonoBehaviour:
   m_ObjectHideFlags: 1
