@@ -1,11 +1,16 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: f111ccfba3c28f940bb2423ebb3dc057
 timeCreated: 1508715584
 =======
 guid: 34f3454902b8c604ab602a200ab232af
 timeCreated: 1508715406
 >>>>>>> origin/master
+=======
+guid: 1628a02e569108f4dac341ed90790327
+timeCreated: 1508716437
+>>>>>>> Some particles yay
 licenseType: Pro
 NativeFormatImporter:
   mainObjectFileID: 2100000
