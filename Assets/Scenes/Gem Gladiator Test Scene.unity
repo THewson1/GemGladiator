@@ -220,6 +220,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 114045004545174442, guid: 3680a2343b582004cbb9a9a34149279b,
+        type: 2}
+      propertyPath: arenasize
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3680a2343b582004cbb9a9a34149279b, type: 2}
   m_IsPrefabParent: 0
