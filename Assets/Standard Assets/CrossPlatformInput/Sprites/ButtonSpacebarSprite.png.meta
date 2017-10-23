@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 344ca3401789c064ea3d5de35b831a41
+=======
+guid: 243e48f582d00494ba5798b822f803bf
+>>>>>>> origin/master
 TextureImporter:
   fileIDToRecycleName:
     21300000: JumpButton

@@ -220,6 +220,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 114045004545174442, guid: 3680a2343b582004cbb9a9a34149279b,
+        type: 2}
+      propertyPath: arenasize
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3680a2343b582004cbb9a9a34149279b, type: 2}
   m_IsPrefabParent: 0
@@ -677,8 +682,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1573085568}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.65, y: 0.25, z: -0.43}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -1.874, y: -0.138, z: 0.81863}
+  m_LocalScale: {x: 0.4092018, y: 0.4092018, z: 0.4092018}
   m_Children:
   - {fileID: 1094812058}
   - {fileID: 1123712141}
@@ -786,7 +791,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1614489686}
   m_LocalRotation: {x: 0.00200506, y: 0.9848753, z: -0.17287605, w: 0.011422834}
-  m_LocalPosition: {x: -0.09, y: 7.27, z: 14.13}
+  m_LocalPosition: {x: 0.07, y: 3.6, z: 7.19}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -882,8 +887,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1903651857}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.65, y: 0.25, z: -0.43}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 1.0558, y: -0.074, z: 0.40885}
+  m_LocalScale: {x: 0.64278644, y: 0.64278644, z: 0.64278644}
   m_Children:
   - {fileID: 146868640}
   - {fileID: 229889182}
@@ -988,6 +993,16 @@ Prefab:
       propertyPath: m_platform
       value: 
       objectReference: {fileID: 764444972}
+    - target: {fileID: 114665666646547868, guid: 82022f7febc4f1943bc9eb50d95c113d,
+        type: 2}
+      propertyPath: m_bounceForce
+      value: 3000
+      objectReference: {fileID: 0}
+    - target: {fileID: 114736344040610770, guid: 82022f7febc4f1943bc9eb50d95c113d,
+        type: 2}
+      propertyPath: seekSpeed
+      value: 2000
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 82022f7febc4f1943bc9eb50d95c113d, type: 2}
   m_IsPrefabParent: 0

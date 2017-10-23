@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 308d5bf3956216747a07afc5547b2051
+=======
+guid: ad1daab2adaf753409dfe95f1051c5b1
+>>>>>>> origin/master
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 4

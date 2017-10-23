@@ -2512,7 +2512,7 @@ MonoBehaviour:
   m_JumpPower: 3
   m_GravityMultiplier: 1
   m_RunCycleLegOffset: 0.2
-  m_MoveSpeedMultiplier: 1
+  m_MoveSpeedMultiplier: 2
   m_AnimSpeedMultiplier: 1
   m_GroundCheckDistance: 0.3
 --- !u!136 &136541718610045706

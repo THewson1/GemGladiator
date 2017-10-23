@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: dabd77f693fcb4349b84d13cd1826544
+=======
+guid: 725f08c52be6a054fae019b99d9b0fd7
+>>>>>>> origin/master
 NativeFormatImporter:
   mainObjectFileID: 0
   userData: 
