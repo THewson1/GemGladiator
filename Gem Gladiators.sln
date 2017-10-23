@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gem Gladiators", "Gem Gladiators.csproj", "{5FECB5AB-1EBA-C29E-456A-A3C121F77E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gem Gladiators.Editor", "Gem Gladiators.Editor.csproj", "{8F78E9B5-9955-A385-A3C2-288783FD885A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FECB5AB-1EBA-C29E-456A-A3C121F77E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FECB5AB-1EBA-C29E-456A-A3C121F77E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FECB5AB-1EBA-C29E-456A-A3C121F77E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FECB5AB-1EBA-C29E-456A-A3C121F77E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F78E9B5-9955-A385-A3C2-288783FD885A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F78E9B5-9955-A385-A3C2-288783FD885A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F78E9B5-9955-A385-A3C2-288783FD885A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F78E9B5-9955-A385-A3C2-288783FD885A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
