@@ -4,13 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Start.unity
-    guid: 36d4af78c21a5f2498d3636a8239c5ac
-  - enabled: 1
-    path: Assets/ModeSelect.unity
-    guid: 74a022029e9c6454bade216ae9b65b37
-  - enabled: 1
-    path: Assets/Scenes/Gem Gladiator Test Scene.unity
-    guid: bb9accfd9b38a7b4c8e2b4ec86311cc1
+  m_Scenes: []
