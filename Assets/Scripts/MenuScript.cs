@@ -15,7 +15,7 @@ public class MenuScript : MonoBehaviour {
 		
 	}
     
-    public static void LoadModeSelect()
+    public void LoadModeSelect()
     {
         SceneManager.LoadScene("ModeSelect");        
     }
