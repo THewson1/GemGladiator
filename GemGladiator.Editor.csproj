@@ -136,6 +136,14 @@
       <Project>{07240E1B-46AE-DEFF-3BC0-9095413BB334}</Project>
       <Name>GemGladiator</Name>
     </ProjectReference>
+    <ProjectReference Include="GemGladiator.Plugins.csproj">
+      <Project>{706E2CDB-6D7B-A556-AE19-B5A56E6545F2}</Project>
+      <Name>GemGladiator.Plugins</Name>
+    </ProjectReference>
+    <ProjectReference Include="GemGladiator.Editor.Plugins.csproj">
+      <Project>{99DBCFFC-61DB-F32D-1C79-6D41F40C7477}</Project>
+      <Name>GemGladiator.Editor.Plugins</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Imported Packages\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
@@ -145,6 +153,11 @@
     <None Include="Assets\Imported Packages\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Imported Packages\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
     <None Include="Assets\Imported Packages\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
+    <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
+    <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
+    <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
