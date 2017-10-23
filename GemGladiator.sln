@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemGladiator", "GemGladiator.csproj", "{07240E1B-46AE-DEFF-3BC0-9095413BB334}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemGladiator.Editor", "GemGladiator.Editor.csproj", "{250415D8-B6CC-F14B-4E86-2E54BD2E0D69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{07240E1B-46AE-DEFF-3BC0-9095413BB334}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07240E1B-46AE-DEFF-3BC0-9095413BB334}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07240E1B-46AE-DEFF-3BC0-9095413BB334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250415D8-B6CC-F14B-4E86-2E54BD2E0D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250415D8-B6CC-F14B-4E86-2E54BD2E0D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250415D8-B6CC-F14B-4E86-2E54BD2E0D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250415D8-B6CC-F14B-4E86-2E54BD2E0D69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
