@@ -1,7 +1,7 @@
 fileFormatVersion: 2
-guid: 70519da27fe385b42a8b168c70b1a856
-timeCreated: 1508737740
-licenseType: Pro
+guid: 6630bde24b299d7439dff6fd8ffad7ca
+timeCreated: 1508750618
+licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: pPipe4
+    4300000: pCube20
     9500000: //RootNode
   materials:
     importMaterials: 1
