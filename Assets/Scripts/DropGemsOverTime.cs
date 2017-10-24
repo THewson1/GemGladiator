@@ -5,7 +5,7 @@ using UnityEngine;
 public class DropGemsOverTime : MonoBehaviour {
 
     public GameObject m_gemPrefab;
-    [Range(1f, 10)] public float m_waitTime;
+    [Range(1f, 10)] public float m_waitTime = 1;
     private float m_timer = 0;
 
 	// Use this for initialization

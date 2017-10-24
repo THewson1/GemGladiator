@@ -36,7 +36,7 @@ public class SeekPlayer : MonoBehaviour {
         {
             
             Vector3 directionTowardsPlayer = (closestPlayer.transform.position - transform.position);
-            m_rb.AddForce(directionTowardsPlayer * seekSpeed * Time.deltaTime);
+            m_rb.AddForce(directionTowardsPlayer.normalized * seekSpeed * Time.deltaTime);
         }
 	}
 }

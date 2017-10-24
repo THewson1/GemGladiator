@@ -5,7 +5,7 @@ using UnityEngine;
 public class GameController : MonoBehaviour {
 
     public GameObject m_playerPrefab;
-    [Range(1, 4)] public int m_amountOfPlayers;
+    [Range(1, 4)] public int m_amountOfPlayers = 1;
 
     [HideInInspector] public int m_amountOfGems;
     [HideInInspector] public List<GameObject> m_listOfPlayers = new List<GameObject>();
@@ -35,7 +35,7 @@ public class GameController : MonoBehaviour {
     {
         GameObject newPlayer = Instantiate(m_playerPrefab, new Vector3(i - m_amountOfPlayers / 2, 1, 0), Quaternion.identity);
         m_listOfPlayers.Add(newPlayer);
-        //newPlayer.GetComponent<PlayerInput>().PlayerNumber = (i);
+        newPlayer.GetComponent<PlayerInput>().PlayerNumber = i;
     }
 
     private void AddPlayersToBoulderTargets()
