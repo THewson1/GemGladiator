@@ -1,3 +1,5 @@
+# InControl ignores
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -31,3 +33,11 @@ Thumbs.db
 /Assets/UnityTestTools
 /Assets/UnityTestTools.meta
 Ouya
+
+# Ignore everything that isn't needed
+
+/*
+/*/
+!/Assets/
+!/Library/
+!/ProjectSettings/
